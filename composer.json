@@ -1,0 +1,31 @@
+{
+    "name": "yandricr/gpti-php",
+    "description": "This package simplifies your interaction with various GPT models, removing the need for tokens or other methods to access GPT",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "gpti\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yandricr",
+            "email": "yandribret@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "homepage": "https://github.com/yandricr/gpti-php",
+    "extra": {
+        "donate": "https://ko-fi.com/yandricr"
+    },
+    "support": {
+        "email": "yandribret@gmail.com",
+        "source": "https://github.com/yandricr/gpti-php",
+        "docs": "https://nexra.aryahcr.cc/"
+    },
+    "readme": "README.md"
+}
