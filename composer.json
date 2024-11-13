@@ -14,14 +14,29 @@
             "email": "yandribret@gmail.com"
         }
     ],
+    "keywords": [
+        "gpt",
+        "gpt-3",
+        "gpt-3.5",
+        "gpt-4",
+        "gpti",
+        "gpt-free",
+        "ai",
+        "blackbox",
+        "prodia",
+        "bing",
+        "chat",
+        "stream",
+        "dalle",
+        "generate-image",
+        "llama-3.1",
+        "gpt-4o"
+    ],
     "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.8"
     },
     "homepage": "https://github.com/yandricr/gpti-php",
-    "extra": {
-        "donate": "https://ko-fi.com/yandricr"
-    },
     "support": {
         "email": "yandribret@gmail.com",
         "source": "https://github.com/yandricr/gpti-php",
